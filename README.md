@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+currently learning and still find my career path
+
 <!--
 **vzhakir/vzhakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
