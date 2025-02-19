@@ -2,8 +2,9 @@
 
 currently learning and still find my career path
 
-https://api.roadmap.sh/v1-badge/tall/vzhakir
+[![roadmap.sh](https://roadmap.sh/card/wide/6610fa04da1671f9862b0676?variant=light&roadmaps=mlops%2Cai-data-scientist%2Ccomputer-science%2Cpython)](https://roadmap.sh)
 
+so yeah, nothing here lol
 
 <!--
 **vzhakir/vzhakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
