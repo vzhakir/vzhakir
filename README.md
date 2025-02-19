@@ -2,6 +2,9 @@
 
 currently learning and still find my career path
 
+https://api.roadmap.sh/v1-badge/tall/vzhakir
+
+
 <!--
 **vzhakir/vzhakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
