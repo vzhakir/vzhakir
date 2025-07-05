@@ -1,7 +1,9 @@
 <h1 align="left">🌌🌃</h1>
 
 Oh hi there! I'm Zhaki, currently studying as Computer Science student at IPB University.
+
 Interested in front-end web development and artificial intelligence, quite interested with back-end dev too!
+
 Let's connect together from now on :)
 
 <div align="center">
