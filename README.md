@@ -6,9 +6,7 @@ Interested in front-end web development and artificial intelligence, quite inter
 
 Let's connect together from now on :)
 
-<div align="center">
 ![vzhakir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vzhakir&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-</div>
 
 
 <!--
