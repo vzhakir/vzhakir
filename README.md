@@ -10,8 +10,19 @@ Portfolio: https://vzhakir-portfolio.vercel.app/
 
 LinkedIn: https://www.linkedin.com/in/vergiawan-zhaki-rasendria-846579292/
 
-![vzhakir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vzhakir&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-[![roadmap.sh](https://roadmap.sh/card/tall/6610fa04da1671f9862b0676?variant=dark&roadmaps=%2Cfrontend%2Cbackend%2Cfull-stack)](https://roadmap.sh)
+<table>
+  <tr>
+    <td>
+      <a href="https://roadmap.sh">
+        <img src="https://roadmap.sh/card/tall/6610fa04da1671f9862b0676?variant=dark&roadmaps=%2Cfrontend%2Cbackend%2Cfull-stack" alt="roadmap.sh">
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzhakir&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="vzhakir's Top Languages">
+    </td>
+  </tr>
+</table>
+
 
 
 <!--
