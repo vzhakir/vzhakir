@@ -1,6 +1,6 @@
 <h1 align="left">🌌🌃</h1>
 
-Oh hi there! I'm Zhaki, currently as Computer Science undergraduate at IPB University.
+Oh hi there! I'm Vergi/Zhaki, currently as Computer Science undergraduate at IPB University.
 
 Interested in front-end web development and artificial intelligence, quite interested with back-end dev too!
 
